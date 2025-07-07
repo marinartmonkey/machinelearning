@@ -14,6 +14,8 @@ A lo largo de la práctica se realiza:
   - **Máquinas de Vectores de Soporte (SVM)**
 - Interpretación de los resultados y selección de los mejores modelos.
 
+Todo el análisis ha sido realizado en R, empleando R Markdown. 
+
 ## Estructura del repositorio
 
 - `tarea1ML_MarinaGC.html`: Informe generado en formato HTML listo para su visualización.
